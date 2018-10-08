@@ -2,8 +2,11 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.
 Also It is used:
+
     Firebase is used to the authentication of users (npm install firebase @angular/fire --save)
+    
     Sweetalert2 is used to the popups or messages (npm install sweetalert2)
+    
     Guard concept is a Service that it has a method called canActivate to validate (ng g guard auth/authGuard)
 
 ## Development server
